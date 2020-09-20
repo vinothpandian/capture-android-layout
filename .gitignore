@@ -154,7 +154,10 @@ dmypy.json
 annotations/*
 screenshots/*
 xml_annotations/*
+annotated_screenshots/*
 
 !annotations/.gitkeep
 !screenshots/.gitkeep
 !xml_annotations/.gitkeep
+!annotated_screenshots/.gitkeep
+archive/
