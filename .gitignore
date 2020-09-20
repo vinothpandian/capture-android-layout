@@ -151,3 +151,10 @@ dmypy.json
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
 
+annotations/
+screenshots/
+xml_annotations/
+
+!annotations/.gitkeep
+!screenshots/.gitkeep
+!xml_annotations/.gitkeep
