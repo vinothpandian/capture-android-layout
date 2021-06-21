@@ -1,4 +1,4 @@
-# Blu dataset screenshots
+# Android layout screenshots
 
 ## Development
 
