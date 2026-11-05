@@ -9,7 +9,7 @@ androidviewclient = {version = "^20.0.0-beta.4", allow-prereleases = true}
 jupyterlab = "^2.2.8"
 opencv-python = "^4.4.0"
 pip = "^20.2.3"
-pure-python-adb = "^0.3.0-alpha.0"
+pure-python-adb = {version = "0.3.0.dev0", allow-prereleases = true}
 python = "~3.7"
 xmltodict = "^0.12.0"
 aiofiles = "^0.5.0"
